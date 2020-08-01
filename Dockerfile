@@ -6,7 +6,7 @@ LABEL authors="Tinywan"
 
 # Linux setup
 # I got this from another, deprecated Angular CLI image.
-# I trust that developer, so I continued to use this, but you
+# I trust that developer, so I continued to use this, but youuuuuuuuuuuuuuuu
 # can leave it out if you want.
 RUN apk update \
     && apk add --update alpine-sdk \
